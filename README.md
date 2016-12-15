@@ -1,6 +1,6 @@
 # Pantry API 
 
-This is the back end component of for the pantry calorie counter. At this stage it only provides foods results utilising nokkigiri via MyFitnessPal. 
+This is the back end component of for the pantry calorie counter. At this stage it only provides foods results utilising nokogri via MyFitnessPal. 
 
 ## Installation & Usage
 
