@@ -1,24 +1,7 @@
-# README
+# Pantry API 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the back end component of for the pantry calorie counter. At this stage it only provides foods results utilising nokkigiri via MyFitnessPal. 
 
-Things you may want to cover:
+## Installation & Usage
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bundle install``` folled by ```rails s```. Front end can be found here https://github.com/charithperera/pantry_react
